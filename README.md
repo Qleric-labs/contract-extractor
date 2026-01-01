@@ -6,7 +6,7 @@
 
 ## Disclaimer
 
-This repository contains a curated, handpicked subset of the full Qleric Contract Extractor solution, made available as open source to comply with licensing requirements (e.g., GPL dependencies like PyMuPDF used in the SaaS version). It is manually synced with the proprietary SaaS application approximately once a month to reflect key updates. For access to the complete, production-ready solution or enterprise features, please refer to the main Qleric platform.
+This repository contains a curated, handpicked subset of the full Qleric Contract Extractor solution, made available as open source to comply with licensing requirements (e.g., GPL dependencies like PyMuPDF used in the SaaS version). It is manually synced with the SaaS application approximately once a month to reflect key updates. For access to the complete, production-ready solution, please refer to the main [Qleric](https://qleric.com) platform.
 
 ## Features
 
